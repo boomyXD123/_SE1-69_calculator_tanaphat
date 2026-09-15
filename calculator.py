@@ -22,3 +22,6 @@ num2 = float(input('ใส่เลขตัวที่ 2 : '))
 
 print("-" * 25)
 print("Addition (+): ", add(num1, num2))
+print("subtract (-): ", subtract(num1, num2))
+print("multiply (+): ", multiply(num1, num2))
+print("divide (+): ", divide(num1, num2))
