@@ -12,3 +12,4 @@
 ## วิธีใช้งาน (How to run)
 1. clone repository นี้ลงในเครื่องของคุณ
     '''bash
+    git clone https://github.com/boomyXD123/_SE1-69_calculator_tanaphat
